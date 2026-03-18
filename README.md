@@ -5,7 +5,7 @@ Hello there!👋 I am a Hungarian, Computer Science student🖥️ at the Budape
 ### 🛠️ Tech Stack
 
 - C 👁️
-- C++ `🫣++;`
+- C++ `🙈++;`
 - Java 👴🏻
 - Kotlin 🛝
 - Spring Boot 🚀
