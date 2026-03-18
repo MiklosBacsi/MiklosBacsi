@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
 
-<!--
-**MiklosBacsi/MiklosBacsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!👋 I am a Hungarian, Computer Science student🖥️ at the Budapest University of Technology and Economics (BME), and I am also a member of the Kir-Dev student team, in which we develop websites on request✨
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C 👁️
+- C++ `🫣++;`
+- Java 👴🏻
+- Kotlin 🛝
+- Spring Boot 🚀
+- C# 🫣🗡️
+- Docker 🐋
+- Python 🐍
+- Brainfuck 😂
