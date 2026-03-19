@@ -6,10 +6,10 @@ Hello there!👋 I am a Hungarian, Computer Science student🖥️ at the Budape
 
 - C 👁️
 - C++ `🙈++;`
-- Java 👴🏻
-- Kotlin 🛝
-- Spring Boot 🚀
+- Java ☕
+- Kotlin 🚀
+- Spring Boot 🍃
 - C# 🫣🗡️
 - Docker 🐋
 - Python 🐍
-- Brainfuck 😂
+- Brainfuck 🤯
